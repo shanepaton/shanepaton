@@ -1,12 +1,12 @@
-<h1 align="left">Hi there I'm Shane 👋</h1>
+<h1 align="center">Hi there I'm Shane 👋</h1>
 
 ###
 
-<p align="left">I make software for fun.</p>
+<p align="center">I make software for fun.</p>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/svelte/FF3E00" height="40" alt="svelte logo"  />
@@ -40,14 +40,14 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shanepaton&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=slateorange&locale=en&hide_border=true&order=1&custom_title=GitHub%20Stats" height="160" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shanepaton&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=slateorange&hide_border=true&order=2&custom_title=Languages" height="160" alt="languages graph"  />
 </div>
 
 ###
 
-<picture>
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shanepaton/shanepaton/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shanepaton/shanepaton/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shanepaton/shanepaton/output/github-contribution-grid-snake.svg">
